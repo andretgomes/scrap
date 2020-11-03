@@ -1,2 +1,2 @@
-# webcrawler
-Python Web Crawler in subdomains
+# Spider Subdomains
+Python Web Crawler in subdomains using Beautiful Soup
